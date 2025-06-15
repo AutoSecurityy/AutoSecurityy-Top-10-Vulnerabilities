@@ -1,5 +1,15 @@
-# AutoSecurityy's Top 10 Automotive Cybersecurity Vulnerabilities
-Draft - Accepting Pull Requests
+<h1 align="center">
+  AutoSecurityy's Top 10 Automotive Cybersecurity Vulnerabilities
+</h1>
+<p align="center">
+  <strong>Draft - Accepting Feedbacks
+</p>
+
+<h2 align="center">
+  About the Project
+</h2>
+As part of the <b>AutoSecurityy</b> community initiative, we are building a publicly available reference list inspired by the OWASP Top 10 — tailored specifically for automotive cybersecurity. This list aims to highlight the most commonly exploited and impactful vulnerabilities found across modern vehicle platforms, based on hands-on experience, practical testing, and community input.
+
 ---
 No. | Vulnerability| Description
 ----|----|----
@@ -14,10 +24,8 @@ No. | Vulnerability| Description
 9|Unprotected Debug Interfaces (UART, JTAG, SWD, etc.)|Exposed or unprotected low-level interfaces allow direct access to bootloaders, file systems, and runtime memory. Many ECUs ship with debug access left enabled, enabling firmware dumping, memory tampering, and bypassing protections.
 10|No Logging, Monitoring, or Anomaly Detection|Vehicles typically lack runtime intrusion detection or event logging. This allows sophisticated attacks to run unnoticed, whether through internal message injection, unexpected firmware behavior, or OTA abuse.
 
-## About the Project
-As part of the AutoSecurityy community initiative, we are building a publicly available reference list inspired by the OWASP Top 10 — tailored specifically for automotive cybersecurity.
-
-This list aims to highlight the most commonly exploited and impactful vulnerabilities found across modern vehicle platforms, based on hands-on experience, practical testing, and community input. We believe that with your experience and domain knowledge, your input would be incredibly valuable in refining this effort.
-Contribute to the project by filling this form: https://forms.gle/cPXnAUQ3WBhmyZ14A
+## Do the Contributions
+We believe that with your experience and domain knowledge, your input would be incredibly valuable in refining this effort.
++ Contribute to the project by filling this form: https://forms.gle/cPXnAUQ3WBhmyZ14A
 
 
